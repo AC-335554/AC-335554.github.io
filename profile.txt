@@ -4,24 +4,24 @@
 # Lines starting with # are comments and are ignored.
 # ============================================================
 
-name=Prof. Pin Luarn
+name=Akanksha Chahal
 
-title1=Top 2% Scientist Worldwide (2020-2026)
+title1=MBA International Management Candidate
 
-title2=2024 National Teaching Award Laureate
+title2=Marketing, HR & AI Enthusiast
 
-expertise=Internet Marketing, AI Applications, Agentic AI
+expertise=Marketing, Human Resources, Artificial Intelligence (AI), Digital Transformation, International Management, Business Strategy
 
-education=Ph.D. in Industrial Engineering, University of Wisconsin-Madison, USA
+education=MBA International Management, Hochschule Pforzheim
 
-email=luarn@mail.ntust.edu.tw
-linkedin=https://pse.is/8nn88y
+email=chahalak@hs-pforzheim.de
+linkedin=www.linkedin.com/in/akanksha-c-760552261
 
-about1=Prof. Luarn earned his B.S. in Industrial Engineering from Tunghai University,
-about2=and his M.S. and Ph.D. in Industrial Engineering from the University of Wisconsin-Madison.
-about3=Named among the world's top 2% scientists by Stanford University & Elsevier for seven consecutive years (2020-2026).
-about4=Recipient of the 2024 Presidential National Teaching Award, Taiwan
+about1=With a background in Literature from the University of Delhi, India, Akanksha bring an interdisciplinary perspective that combines humanities with business management.
+about2=Her interests span marketing, human resources, artificial intelligence, and digital transformation.
+about3=She enjoys exploring innovative ideas, understanding people and organisations, and connecting creativity with strategic problem-solving.
+about4=
 
-phone=+886-2-2737-6754
+phone=+111-111-111-111
 
-location=T2-409, National Taiwan University of Science and Technology, No. 43, Sec. 4, Keelung Rd., Taipei, Taiwan
+location=Pforzheim, Germany
